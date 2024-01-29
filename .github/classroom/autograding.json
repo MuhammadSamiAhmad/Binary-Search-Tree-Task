@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "BST Tests",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
